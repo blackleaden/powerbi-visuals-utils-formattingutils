@@ -68,7 +68,7 @@
     "webpack": "4.42.1"
   },
   "dependencies": {
-    "powerbi-visuals-utils-dataviewutils": "2.2.1",
+    "powerbi-visuals-utils-dataviewutils": "2.3.0",
     "powerbi-visuals-utils-typeutils": "2.2.1"
   }
 }
